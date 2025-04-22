@@ -58,13 +58,13 @@ The best model achieved:
 ## 📊 Visual Insights
 
 <p align="center">
-  <img src="results/sample_confusion_matrix.png" alt="Confusion Matrix" width="500">
+  <img src="https://github.com/tinega04/telecom-fraud-detection/blob/main/notebooks/figures/confusion_matrix.png?raw=true" alt="Confusion Matrix" width="500">
   <br>
   <em>Confusion Matrix: Showing strong separation between fraud and non-fraud</em>
 </p>
 
 <p align="center">
-  <img src="results/sample_feature_importance.png" alt="Feature Importance" width="500">
+  <img src="https://github.com/tinega04/telecom-fraud-detection/blob/main/notebooks/figures/feature_importance.png?raw=true" alt="Feature Importance" width="500">
   <br>
   <em>Feature Importance: Top drivers of fraud predictions</em>
 </p>
