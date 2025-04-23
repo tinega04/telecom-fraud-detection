@@ -107,7 +107,7 @@ The best model achieved:
 
 ## 📣 Let’s Connect!
 
-If you're hiring, collaborating, or just want to geek out about data —  
+If you're hiring, collaborating, or just want to geek out about data:  
 **[Let’s talk on LinkedIn](https://www.linkedin.com/in/stephen-tinega-580b09184/)**
 
 ---
